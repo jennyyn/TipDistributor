@@ -12,7 +12,7 @@ public class TipDistributor {
         double sumTotalAmount = 0;
         int checkCount = 0;
 
-
+//TESTING #1
         while (!stop) {
 
             try {
