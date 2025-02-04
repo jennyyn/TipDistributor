@@ -68,7 +68,7 @@ public class TipDistributor {
                 String end = scnr.next();
                 scnr.nextLine();
 
-
+//TESTING #2
                 if (end.equals("y") || end.equals("Y")) {
                     stop = true;
                     System.out.printf("Total sale amount is: %.2f\n", sumSaleAmount);
